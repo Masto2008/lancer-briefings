@@ -96,7 +96,7 @@ export default {
         {
           "slug": "001",
           "name": "Transport-Artifact",
-          "status": "status"
+          "status": "start"
         },
         {
           "slug": "002",
@@ -138,22 +138,15 @@ export default {
           "frame": "Everest",
           "mech": "Nemithlas"
         },
-        {
-          "callsign": "Compadre",
-          "alias": 'Clint "CC" Cruz',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Everest"
-        },
+
       ],
       "header": {
-        "planet": "Hercynia",
+        "planet": "Prásinos-4",
         "year": "5014u",
-        "system": "Ardennes-3",
-        "gate": "Atlas-Quanokrim",
-        "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
+        "system": "Prásinos",
+        "gate": "Prásinos-Quanokrim",
+        "ring": "Prásinos-Line",
+        "headerTitle": "MecHunter",
         "headerSubtitle": "Mercenary Company",
         "subheaderTitle": "Crisis Response",
         "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
