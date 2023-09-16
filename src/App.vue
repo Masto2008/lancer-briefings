@@ -96,12 +96,12 @@ export default {
         {
           "slug": "001",
           "name": "Transport-Artifact",
-          "status": "Haven't Accepted"
+          "status": "status"
         },
         {
           "slug": "002",
           "name": "Righteous-Owner",
-          "status": "Haven't Accepted"
+          "status": "start"
         },
 
       ],
