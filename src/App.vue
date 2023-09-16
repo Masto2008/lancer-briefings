@@ -96,8 +96,14 @@ export default {
         {
           "slug": "001",
           "name": "Transport-Artifact",
-          "status": "start"
+          "status": "Haven't Accepted"
         },
+        {
+          "slug": "002",
+          "name": "Righteous-Owner",
+          "status": "Haven't Accepted"
+        },
+
       ],
       "pilots": [
         {
