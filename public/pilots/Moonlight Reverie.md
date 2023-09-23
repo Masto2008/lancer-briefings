@@ -1,3 +1,0 @@
-Mysterious man.
-
-Origin: Unknown
