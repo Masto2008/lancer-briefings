@@ -1,10 +1,10 @@
 [
 	{
-		"type": "Story",
+		"type": "Rep",
 		"result": "Positive",
 		"name": "Rep with Union",
-		"description": "[Insert info here] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam sem mi, vitae pharetra lorem dictum consectetur.",
-		"color": "#7DBBBB",
+		"description": "Representation of how much Union respect you. Union is the biggest faction in humanity space, the centre government that control Cradle. Also known as Third Committee or ThirdComm, their goal is to protect, develop and spread their Utopian Pillars to the Galaxy.",
+		"color": "#a44cd3",
 		"value": 5,
 		"max": 10
 	},
@@ -12,8 +12,8 @@
 		"type": "Story",
 		"result": "Negative",
 		"name": "Rep with Pirate",
-		"description": "[Insert info here] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam sem mi, vitae pharetra lorem dictum consectetur.",
-		"color": "#FD7777",
+		"description": "Representation of how much Pirate respect you. Pirate are everywhere in humanity space, pirate gangs can be comprised of downstrodden victim of exploitive systems that leave them in poverty and driving them to the darkside or organised criminal mercenaries sponsored by those in power.",
+		"color": "#a44cd3",
 		"value": 4,
 		"max": 10
 	}
