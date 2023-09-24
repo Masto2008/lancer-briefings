@@ -2,7 +2,7 @@
 
 # Lancer Briefings
 
-**[Live Demo](https://lancer.kuenaimaku.com/)** (No Room for a Wallflower Spoilers)
+**[Live Demo](https://effervescent-frangipane-9872c8.netlify.app)** (No Room for a Wallflower Spoilers)
 
 Go over mission briefings within the LANCER Universe in style by showing your players a fully animated mission briefing screen, with a Mirrorsmoke Mercenary Company theme.
 
